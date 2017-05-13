@@ -1,0 +1,9 @@
+﻿<Application x:Class="BCNS_Button_Trainner.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:BCNS_Button_Trainner"
+             Startup="Application_Startup">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
